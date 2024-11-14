@@ -1,12 +1,16 @@
 body {
     background-color: #D7BFDC;
     color: #333;
+    font-family: 'Lora', serif;
+    font-size: 20
 }
 h1 {
     font-family: 'Playfair Display', serif;
     font-size: 45px;
     color: #301934;
 }
-a {
-    font-family: 'Lora', serif;
+h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    color: #333;
 }
